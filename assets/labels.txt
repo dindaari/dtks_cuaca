@@ -1,0 +1,4 @@
+0 Hujan. Rekomendasi Aktivitas Memasak, MembacaBuku
+1 Berawan. Rekomendasi Aktivitas Bersepeda, Berkebun
+2 Sunrise. Rekomendasi Aktivitas Jogging, Yoga
+3 Cerah. Rekomendasi Aktivitas Berenang, BermainGolf
